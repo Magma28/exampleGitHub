@@ -1,6 +1,10 @@
 Esta es una prueba con el archivo 1
 El dev 2 esta trabajando con este archivo
 sigo avanzadno
+<<<<<<< HEAD
 
 nuevo comentario en la 5
 comentario en la 6
+=======
+comentario en la 4
+>>>>>>> 16c1f39751be5df347d64c8c49d69fb0c7328642
